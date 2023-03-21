@@ -1,0 +1,25 @@
+Existem varios diretorios que tem de ser trocados, nos ficheiros.
+
+2.1.1 Modelo Relacional.
+2.1.2 Programação.
+2.1.3 Migração
+	2.1.3 Verificação
+	2.1.2 Programção - Testes.
+2.1.5 Metadados.
+	2.1.5 Metadados- Jobs.
+	2.1.5 Metadados- Testes.
+3.1.1 índices
+3.1.2 Backups
+3.1.3 Niveis de Acesso
+3.1.4 Encriptação
+3.1.5 Controlo de Transações
+3.1.6 MongoDB
+	Seguir passos no arquivo
+	depois seguir o mongo.js
+4. Adenda
+	2.2 Sistema Relacional
+	2.2.1 Indices
+	2.2.2 Niveis de acesso
+	2.2.3 Encriptação.
+
+

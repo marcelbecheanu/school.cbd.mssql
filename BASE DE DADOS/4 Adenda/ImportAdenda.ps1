@@ -1,0 +1,1 @@
+mongoimport --jsonArray --db WWIWeb --collection LogisticTransport --file Adenda.json
